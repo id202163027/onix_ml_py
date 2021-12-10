@@ -26,6 +26,7 @@ print(a4)
 a5 = ''.join(map(str,a4))
 print(a5)
 
+"""""
 # write output
 f = open("Readme.md", "a")
 f.write('# Lesson_002 task output\n')
@@ -35,3 +36,4 @@ f.write(str(a3)+'\\\n')
 f.write(str(a4)+'\\\n')
 f.write(str(a5))
 f.close()
+"""
