@@ -1,6 +1,6 @@
 ## Lesson_005 task
-Using sqlite3 create a database table for the CityId dataset given in the file [https://worldweather.wmo.int/en/json/full_city_list.txt] (https://worldweather.wmo.int/en/json/full_city_list.txt).\
-Provide a function that allows to make changes to the database. Demonstrate function work.\
+Using sqlite3 create a database table for the CityId dataset given in the file [https://worldweather.wmo.int/en/json/full_city_list.txt].
+Provide a function that allows to make changes to the database. Demonstrate function work.
 
 ```
 update(country, city, city_id=None):
