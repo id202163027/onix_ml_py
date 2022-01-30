@@ -9,6 +9,6 @@ Note. Dataframes for testing the capabilities of the program are set as follows:
 ```
 df1 = pd.DataFrame({'x_1': ['A', 'B', 'C'] * 3, 'y_1': ['D', 'E', 'F'] * 3,
     'z': np.random.randint(0, 20, 9)})
-df2 = pd.DataFrame({'factor1': ['X', 'Y', 'Z'] * 4,'factor2': ['F', 'G'] * 6,
+df2 = pd.DataFrame({'factor1': ['A', 'B', 'C'] * 4,'factor2': ['D', 'E'] * 6,
     'result': np.random.randint(0, 10, 12)})
 ```
